@@ -9,6 +9,7 @@ dist/
 rsbuild-dist/
 rspack-dist/
 webpack-dist/
+canary-dist/
 
 # Profile
 .rspack-profile-*/
